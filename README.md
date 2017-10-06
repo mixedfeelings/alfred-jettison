@@ -1,6 +1,6 @@
 Jettison Workflow for [Alfred 3](http://www.alfredapp.com)
-
 ==============================
+
 [Jettison](https://www.stclairsoft.com/Jettison/) is a lightweight MacOS menulet application that automatically and safely unmounts and remounts external volumes when your computer wakes or sleeps. **alfred-jettison** is a simple Alfred workflow to manually invoke Jettison Actions on command. 
 
 Installation
@@ -38,4 +38,4 @@ Roadmap
 
 License / Disclaimer
 -----
-This workflow is available for free use via the (MIT license[)https://opensource.org/licenses/MIT]. However, Jettison and the Jettison logo are copyright (St. Clair Software)[https://www.stclairsoft.com/Jettison]. Use here is not not authorized by, sponsored by, or associated with the trademark owner.
+This workflow is available for free use via the [MIT license](https://opensource.org/licenses/MIT). However, Jettison and the Jettison logo are copyright [St. Clair Software](https://www.stclairsoft.com/Jettison). Use here is not not authorized by, sponsored by, or associated with the trademark owner.
