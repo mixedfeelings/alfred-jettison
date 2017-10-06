@@ -36,4 +36,4 @@ Though Jettison is not a scriptable application, **alfred-jettison** uses AppleS
 
 #### License / Disclaimer
 
-This workflow is available for free use via the [MIT license](https://opensource.org/licenses/MIT). However, Jettison and the Jettison logo are copyright [St. Clair Software](https://www.stclairsoft.com/Jettison). Use here is not not authorized by, sponsored by, or associated with the trademark owner.
+This workflow is available for free use via the [MIT license](https://opensource.org/licenses/MIT). However, Jettison and the Jettison logo are copyright [St. Clair Software](https://www.stclairsoft.com/Jettison). Use here is not authorized by, sponsored by, or associated with the trademark owner.
