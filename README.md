@@ -23,7 +23,7 @@ Usage
 
 * **jet mount** Mount or remount all available drives
 * **jet sleep** Safely eject all drives and sleep
-* **jet eject** Ssafely eject all drives and stay awake
+* **jet eject** Safely eject all drives and stay awake
 
 
 Notes
